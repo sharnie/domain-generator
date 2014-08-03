@@ -9,6 +9,7 @@ gem 'rake'
 gem 'require_all'
 gem 'shotgun'
 gem 'pry'
+gem 'random-word-generator', require: 'random_word_generator'
 
 group :test do
   gem 'rspec'
